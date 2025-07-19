@@ -1,21 +1,14 @@
-# d2r-reimagined-mod
-The source code for the Diablo II Mod Reimagined.
+# Obsidion
+### Experimental Fork of Reimagined
+This repository contains the source code for Obsidion, an experimental fork of the Reimagined mod for Diablo II: Resurrected.
 
-Found on nexus mods here: https://www.nexusmods.com/diablo2resurrected/mods/503
+## What is Obsidion?
+Obsidion serves as a testbed for experimental mechanics, balance shifts, and conceptual features that push the boundaries of traditional Diablo II gameplay. While it builds upon the foundations of Reimagined, it explores new design spaces, system reworks, and modding techniques not yet included in the mainline mod.
 
-## Our Mission
-Our mission is to provide a Diablo II experience that is both familiar and new. We aim to keep the core gameplay of Diablo II intact while adding new features and content to the game. We want to provide a fresh experience for players who have played Diablo II for years, while also providing a fun and engaging experience for new players.
+⚠️ This is not a stable release. Changes here are not guaranteed to make it into Reimagined. Use at your own risk and for research or feedback purposes only.
 
-Everything we do, regardless if that is the D2R Files themselves or any of the tooling we build, is open source. We believe that the community should have the ability to see and modify the code that runs the mod. We also believe that the community should have the ability to contribute to the mod and help shape its future.
-
-Want to be apart of this mission? Join our Discord Server https://discord.gg/9zZkYrSA8C for more information on contributing and collaborating.
-
-## Contributing
-1) Fork the mod
-2) Do your changes in your forked repository
-3) Open up a pull request targeting the `next` branch.
-4) Reach out to me on discord (collin.h) to discuss your changes.
-
-## Available Tools
-This repository contains a number of tools that can be used to help develop the mod. These tools are located in the `scripts` directory.
-These tools include the ability to compare key entries for strings between two files, copying english names to other languages, and copying the files from this git repository into your d2r install directory.
+## Goals
+- Develop and trial experimental features for D2R modding.
+- Explore alternative approaches to skills, items, monster behavior, and progression.
+- Provide a platform for isolated feature testing before mainline consideration.
+- Encourage open-source experimentation and discussion in the D2R modding community.
