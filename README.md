@@ -10,5 +10,4 @@ Obsidion serves as a testbed for experimental mechanics, balance shifts, and con
 ## Goals
 - Develop and trial experimental features for D2R modding.
 - Explore alternative approaches to skills, items, monster behavior, and progression.
-- Provide a platform for isolated feature testing before mainline consideration.
-- Encourage open-source experimentation and discussion in the D2R modding community.
+- Increase overall difficulty and reward scaling of the game.
